@@ -17,7 +17,6 @@ A modern React TypeScript application for browsing and managing products. Built 
 - TypeScript
 - Vite
 - Tailwind CSS
-- Supabase
 - Lucide React
 
 ## Installation
